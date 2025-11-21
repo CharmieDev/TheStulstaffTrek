@@ -14,7 +14,6 @@ public class RuntimeDialogueNode
     public string NodeID;
     public string SpeakerName;
     public string DialogueText;
-    public Faces Face;
     public Sprite SpeakerSprite;
     public List<ChoiceData> Choices = new List<ChoiceData>();
     public string FlagKey;

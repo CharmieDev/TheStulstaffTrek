@@ -48,8 +48,6 @@ public class DialogueNode : Node
         context.AddInputPort<string>("Speaker").Build();
         context.AddInputPort<string>("Dialogue").Build();
         
-        context.AddInputPort<Faces>("Face").Build();
-        
         context.AddInputPort<Sprite>("SpeakerSprite").Build();
 
     }
@@ -65,8 +63,7 @@ public class ChoiceNode : Node
 
         context.AddInputPort<string>("Speaker").Build();
         context.AddInputPort<string>("Dialogue").Build();
-        
-        context.AddInputPort<Faces>("Face").Build();
+
         
         context.AddInputPort<Sprite>("SpeakerSprite").Build();
 

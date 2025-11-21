@@ -38,8 +38,6 @@ public class DialogueManager : Singleton<DialogueManager>
     private RuntimeDialogueNode _currentNode;
     
     [field:SerializeField] public Dictionary<string, bool> CurrentFlags { get; private set; }
-    
-    [field:SerializeField] public Faces CurrentFace { get; private set; }
 
     private void Start()
     {
@@ -137,7 +135,6 @@ public class DialogueManager : Singleton<DialogueManager>
             SpeakerSprite.gameObject.SetActive(false);
         }
 
-        CurrentFace = _currentNode.Face;
         OnFaceChanged?.Invoke();
         SpeakerNameText.SetText(_currentNode.SpeakerName);
         Typewriter.ShowText(_currentNode.DialogueText);

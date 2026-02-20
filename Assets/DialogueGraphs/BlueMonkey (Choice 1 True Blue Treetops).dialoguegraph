@@ -84,10 +84,10 @@ MonoBehaviour:
         m_LocalSubgraphs: []
         m_LastKnownBounds:
           serializedVersion: 2
-          x: 484.66666
-          y: -106
-          width: 4645.3335
-          height: 855.3333
+          x: 485.6
+          y: -106.4
+          width: 4644.8003
+          height: 854.4
         m_GraphElementMetaData:
         - m_Guid:
             m_Value0: 13543301987836686672
@@ -586,7 +586,7 @@ MonoBehaviour:
     - rid: 2908246134698279116
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: -7692708920665168602, guid: e7c2263e029e2b04ba1d890020515963, type: 3}
     - rid: 2908246134698279117
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -643,15 +643,15 @@ MonoBehaviour:
     - rid: 2908246134698279120
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: 
+        m_Value: Blue Monkey
     - rid: 2908246134698279121
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: 
+        m_Value: Have you returned to provide me more trinkets?
     - rid: 2908246134698279122
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: 5521356613040695673, guid: 6bdf0ca5f4bba444aa091b562b703326, type: 3}
     - rid: 2908246134698279123
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
@@ -747,7 +747,7 @@ MonoBehaviour:
     - rid: 2908246134698279131
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: -7055363915817214341, guid: 2d2739c608c1018499d4bfee720b9c4f, type: 3}
     - rid: 2908246134698279132
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -803,7 +803,7 @@ MonoBehaviour:
     - rid: 2908246134698279140
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: -7055363915817214341, guid: 2d2739c608c1018499d4bfee720b9c4f, type: 3}
     - rid: 2908246134698279141
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -858,7 +858,7 @@ MonoBehaviour:
     - rid: 4619396938338402429
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: -7692708920665168602, guid: e7c2263e029e2b04ba1d890020515963, type: 3}
     - rid: 4619396938338402430
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -945,7 +945,7 @@ MonoBehaviour:
     - rid: 4619396938338402439
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: 5521356613040695673, guid: 6bdf0ca5f4bba444aa091b562b703326, type: 3}
     - rid: 4619396938338402440
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -1033,7 +1033,7 @@ MonoBehaviour:
     - rid: 4619396938338402449
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: -7055363915817214341, guid: 2d2739c608c1018499d4bfee720b9c4f, type: 3}
     - rid: 4619396938338402450
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -1143,7 +1143,7 @@ MonoBehaviour:
           serializedVersion: 2
           Hash: 5a5a982d96d104932df5ef606923fdb4
         m_Version: 2
-        m_Position: {x: 3264.6, y: -54.23336}
+        m_Position: {x: 3274.72, y: -49.63336}
         m_Title: ChoiceNode
         m_Tooltip: 
         m_NodePreviewModel:
@@ -1186,15 +1186,15 @@ MonoBehaviour:
     - rid: 4619396938338402464
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: 
+        m_Value: Blue Monkey
     - rid: 4619396938338402465
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: 
+        m_Value: The ones you heard as a kid?
     - rid: 4619396938338402466
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: 318689263810716400, guid: f0bac0b1fb7996449bc0f9628e4f2390, type: 3}
     - rid: 4619396938338402467
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
@@ -1257,7 +1257,7 @@ MonoBehaviour:
     - rid: 4619396938338402478
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: 318689263810716400, guid: f0bac0b1fb7996449bc0f9628e4f2390, type: 3}
     - rid: 4619396938338402479
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -1409,7 +1409,7 @@ MonoBehaviour:
     - rid: 4619396938338402490
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: 5521356613040695673, guid: 6bdf0ca5f4bba444aa091b562b703326, type: 3}
     - rid: 4619396938338402491
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -1465,7 +1465,7 @@ MonoBehaviour:
     - rid: 4619396938338402499
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: 5521356613040695673, guid: 6bdf0ca5f4bba444aa091b562b703326, type: 3}
     - rid: 4619396938338402500
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -1584,7 +1584,7 @@ MonoBehaviour:
     - rid: 4619396938338402510
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: -7692708920665168602, guid: e7c2263e029e2b04ba1d890020515963, type: 3}
     - rid: 4619396938338402511
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -1671,7 +1671,7 @@ MonoBehaviour:
     - rid: 4619396938338402520
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: -7055363915817214341, guid: 2d2739c608c1018499d4bfee720b9c4f, type: 3}
     - rid: 4619396938338402521
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -1759,7 +1759,7 @@ MonoBehaviour:
     - rid: 4619396938338402530
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: -7692708920665168602, guid: e7c2263e029e2b04ba1d890020515963, type: 3}
     - rid: 4619396938338402531
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -1848,15 +1848,15 @@ MonoBehaviour:
     - rid: 4619396938338402542
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: 
+        m_Value: Blue Monkey
     - rid: 4619396938338402543
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: 
+        m_Value: Such accusations cannot go unnoticed.
     - rid: 4619396938338402544
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: 318689263810716400, guid: f0bac0b1fb7996449bc0f9628e4f2390, type: 3}
     - rid: 4619396938338402545
       type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
@@ -1952,7 +1952,7 @@ MonoBehaviour:
     - rid: 4619396938338402556
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: 318689263810716400, guid: f0bac0b1fb7996449bc0f9628e4f2390, type: 3}
     - rid: 4619396938338402557
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -2040,7 +2040,7 @@ MonoBehaviour:
     - rid: 4619396938338402566
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: 5521356613040695673, guid: 6bdf0ca5f4bba444aa091b562b703326, type: 3}
     - rid: 4619396938338402567
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -2127,7 +2127,7 @@ MonoBehaviour:
     - rid: 4619396938338402576
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: -7692708920665168602, guid: e7c2263e029e2b04ba1d890020515963, type: 3}
     - rid: 4619396938338402577
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
@@ -2215,7 +2215,7 @@ MonoBehaviour:
     - rid: 4619396938338402586
       type: {class: 'Constant`1[[UnityEngine.Sprite, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
       data:
-        m_Value: {fileID: 0}
+        m_Value: {fileID: -7692708920665168602, guid: e7c2263e029e2b04ba1d890020515963, type: 3}
     - rid: 4619396938338402587
       type: {class: DialogueNode, ns: , asm: Assembly-CSharp-Editor}
       data: 
